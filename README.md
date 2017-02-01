@@ -12,6 +12,6 @@ Make sure that you add `$GOPATH/bin` as one of your path
 ```sh
 watcher -path '/var/log/test.log' \
  -words 'hello,world,hehe,mantap' \
- -webhook 'https://hooks.slack.com/services/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' \
+ -webhook 'https://hooks.slack.com/services/blablabla/blablbalba' \
  -channel 'tools-err'
 ```
